@@ -37,6 +37,6 @@ terminal-border: "0"
     align = "center"
     id = "__timeout__"
     text = "I have %d mental illnesses"  # Uppercase to match style
-    color = "#eb4444"                 # Same red
+    color = "#ffffff"                 # Same red
     font = "Retro Gaming Regular 22"           # Same font
 }
